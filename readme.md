@@ -7,5 +7,16 @@ Vous n'ètes pas familier avec github, je vais vous expliquez comment téléchar
 
 Vous ètes arrivé sur cette page, bien! Maitenant vous allez cliquez sur le bouton vert **clone and download**
 
-![clone](/markdown/clone)
+![clone](/markdown/down.png)
+
+## 2. Téléchargement
+
+Bravo, maitenant vos fichier sont téléchargés, regarder dans votre onglet , le dossier sera en fichier .zip
+
+## 3. Extaction
+ une fois le fichier .zip télécharger , il faudra utilisé un logiciel tierce tel "unzip", et voila!
+
+
+
+
 
