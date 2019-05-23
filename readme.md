@@ -1,7 +1,9 @@
-Vous n'ètes pas familier avec github, je vais vous expliquez comment téléchargé les photos 
+##  *Vous n'ètes pas familier avec github, je vais vous expliquez comment téléchargé les photos*
 
 
-# Pas besoin d'un compte Github, je vous explique ne 2 etapes:
+---
+
+# Pas besoin d'un compte Github, je vous explique en 3 etapes:
 
 ## 1. Clone and download
 
@@ -17,6 +19,4 @@ Bravo, maitenant vos fichier sont téléchargés, regarder dans votre onglet , l
  une fois le fichier .zip télécharger , il faudra utilisé un logiciel tierce tel "unzip", et voila!
 
 
-
-
-
+*by Andry RAJOHNSON*
