@@ -7,9 +7,14 @@
 
 ## 1. Clone and download
 
-Vous ètes arrivé sur cette page, bien! Maitenant vous allez cliquez sur le bouton vert **clone and download**
+Vous ètes arrivé sur cette page, bien! Maitenant vous allez cliquez sur le bouton vert **clone and download en haut à droite"**
 
+il ressemble à sa!
+
+---
 ![clone](/markdown/down.png)
+
+---
 
 ## 2. Téléchargement
 
